@@ -2,12 +2,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm carullahtursun</h1>
 <h3 align="center">Hi my name is Carullah Tursun I am an enthusiastic computer engineer working in the field of Web Development. I have expertise in different technologies in both Frontend and Backend areas, and I am constantly improving myself with my work. I have worked on web development projects as a freelancer. I continue developing my career in line with my dreams</h3>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1ljY5m28999pvUpV9BwrYK&ust=1679751404974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiM6N_X9P0CFQAAAAAdAAAAABAE" align="right" width="400" alt="coding" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carullahtursun&label=Profile%20views&color=0e75b6&style=flat" alt="carullahtursun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carullahtursun" alt="carullahtursun" /></a> </p>
 
 - 🔭 I’m currently working on [NurLight](https://nurlightllc.com)
 
